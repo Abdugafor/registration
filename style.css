@@ -49,6 +49,16 @@
     margin-right: 20px;
 }
 
+.po input {
+    padding: 0px;
+    border-radius: 0px;
+    float: left;
+
+}
+
+.po label {
+    margin-left: 10px;
+}
 
 
 
